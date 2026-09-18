@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.273.1](https://github.com/Flagsmith/flagsmith/compare/v2.273.0...v2.273.1) (2026-09-18)
+
+
+### Bug Fixes
+
+* **identities:** restore diverged override labels removed in value editor refactor ([#8550](https://github.com/Flagsmith/flagsmith/issues/8550)) ([d1d6560](https://github.com/Flagsmith/flagsmith/commit/d1d6560debd168be581bf58c49f5397358389b6b))
+* **integrations:** fix Slack integration modal after redirect ([#8542](https://github.com/Flagsmith/flagsmith/issues/8542)) ([1fd274c](https://github.com/Flagsmith/flagsmith/commit/1fd274c9a91c4ac8c3c4a8e93fbbf4b2906a0bb8))
+* **Segments:** Improve and consolidate service for fetching overrides ([#8548](https://github.com/Flagsmith/flagsmith/issues/8548)) ([49d957a](https://github.com/Flagsmith/flagsmith/commit/49d957aa3228d8733b43951c099840577ff78338))
+
+
+### Docs
+
+* point Node.js SDK versions and migration note to @flagsmith/nodejs ([#8490](https://github.com/Flagsmith/flagsmith/issues/8490)) ([18e260a](https://github.com/Flagsmith/flagsmith/commit/18e260a108d316f192570d20a602ec40c27fac94))
+
 ## [2.273.0](https://github.com/Flagsmith/flagsmith/compare/v2.272.0...v2.273.0) (2026-09-16)
 
 
